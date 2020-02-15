@@ -15,6 +15,9 @@ public class JavaApplication63 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        
+        kida fer;
         // TODO code application logic here
     }
     
