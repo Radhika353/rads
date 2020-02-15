@@ -17,7 +17,7 @@ public class JavaApplication63 {
     public static void main(String[] args) {
         
         
-        kida fer;
+        kida fer
         // TODO code application logic here
     }
     
